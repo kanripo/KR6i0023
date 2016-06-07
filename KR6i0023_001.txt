@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:03.297064
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:27
 #+TITLE: 過去莊嚴劫千佛名經
 #+PROPERTY: CBETA_ID T14n0446b
 #+PROPERTY: ID KR6i0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 446b
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0023_T_000-0371a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0023_T_001-0371a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -305,7 +305,7 @@
 月佛、南無威極上光明佛、南無拘鄰佛、¶
 南無最勝王佛、南無大莊嚴佛、南無師子¶
 奮迅步佛、南無懷香風佛、南無喜寂滅佛、¶
-南無大稱佛、南無人音聲佛、南無阿[少/兔]律¶
+南無大稱佛、南無人音聲佛、南無阿㝹律¶
 佛、南無珠月佛、南無懷明佛、南無廣名¶
 稱佛、南無憙最上佛、南無淨覺佛、南無¶
 寶敬佛、南無好顏色光佛、南無滅怨佛、¶
